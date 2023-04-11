@@ -1,0 +1,100 @@
+newmtl HalfDollar_lowres
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd freeobjects&produkte/Coins/Half_Dollar/HalfDollar_colormap.jpg
+
+newmtl blue
+Kd 1 0.811765 0.243137
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.99 0.99 0.99
+Ns 219
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl gree
+Kd 1 1 1
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl o
+Kd 1 0.351539 0
+Ke 0 0 0
+Ka 0.8 0.8 0.8
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl ro
+Kd 1 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl w
+Kd 0 0.121569 0.498039
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Yellow
+Kd 0 0.156863 0.0479815
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl y
+Kd 1 0.706227 0
+Ke 0 0 0
+Ka 2.22 2.22 2.22
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
